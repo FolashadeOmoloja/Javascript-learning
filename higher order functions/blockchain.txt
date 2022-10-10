@@ -1,0 +1,27 @@
+So every other day we hear the word – blockchain, blockchain, blockchain, blockchain, 
+but what exactly is a blockchain? Well you can think of blockchains as a kind of shared database that differs from 
+a regular database in the way that it actually stores the data or information.  So blockchains tend to store data in blocks, 
+they are called blocks, and they are linked together through cryptography, which is where you get the word crypto from. Anyway, 
+as the new data comes in, it is entered into a fresh block and once the block is filled with data, it is chained unto the previous block which makes the 
+data chained together in chronological order, which is where the chain of blocks comes in. So, different kinds of information can be stored in the block 
+chain but the most common use of a blockchain so far is definitely a ledger for transactions especially financial transactions. In the case of Bitcoin, 
+a really popular case, blockchain is used in a decentralized way so that no single person or group has control, rather every single user collectively 
+retains control. So, decentralized blockchain is basically immutable and that means that most data entered is basically irreversible and for 
+the example of Bitcoin it means that transaction are basically permanently recorded and viewable to literally anyone around the world.
+A very simple analogy to understand how blockchain actually works, is basically, think of Google docs, right, you can share a Google doc with somebody
+without necessarily copying and pasting the same file elsewhere. You simply distribute it to other people, but when you distribute it, those other 
+people are able to make real time changes and each person that has access to that Google doc can see all the changes being made. 
+And you can collaboratively make changes on that very same document and you’re very aware of every change that is made to that document.
+And it could be you and one person, it could be you and ten people simultaneously making changes to Google doc at the same time.  
+And you can retain the same permissions. Each and every one of you on that document can retain all the same permissions and also make real time changes on
+that very same document. And that’s just one of the little analogies you can use to understand blockchain. Of course, the blockchain is far more 
+complicated than Google doc. Let me give another analog. So let’s say you have a file of transactions on your computer and let’s say some accountants 
+have the very same file on their computer and all of you have access to that very same file and when you make a transaction, your computer sends an email 
+to each of those accountants to inform them of this transaction. Now each accountant basically rushes to be the first to check whether you can actually 
+afford to make this transaction and let’s just say, and be paid their salary and the first to check and validate this hits reply all button, which will 
+validate their logic for basically verifying this transaction. And if the other accountant agrees everyone will update their file. 
+And this concept is basically what is enabled by what we call blockchain technology. You will be the  node, your computer will be the ledger, 
+the distributed ledger, which is the actual blockchain and the accountant will be the ones who are called minors and this form, 
+where you and the accountants have access to this very same ledger is essentially what the blockchain facilitates. 
+Just like in the case of a Google Doc in which you all have decentralized access to the very same document, this is a decentralized ledger and 
+that is basically the way blockchain works.
